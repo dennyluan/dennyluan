@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dennyluan-static/static/css/main.64ac0a78.chunk.css",
-    "main.js": "/dennyluan-static/static/js/main.a9b4b2ba.chunk.js",
-    "main.js.map": "/dennyluan-static/static/js/main.a9b4b2ba.chunk.js.map",
-    "runtime~main.js": "/dennyluan-static/static/js/runtime~main.f43298a2.js",
-    "runtime~main.js.map": "/dennyluan-static/static/js/runtime~main.f43298a2.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/dennyluan-static/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.47c9e82b.chunk.js": "/dennyluan-static/static/js/2.47c9e82b.chunk.js",
-    "static/js/2.47c9e82b.chunk.js.map": "/dennyluan-static/static/js/2.47c9e82b.chunk.js.map",
-    "index.html": "/dennyluan-static/index.html",
-    "precache-manifest.b07248a49f39c22697e4df0427d1b4d8.js": "/dennyluan-static/precache-manifest.b07248a49f39c22697e4df0427d1b4d8.js",
-    "service-worker.js": "/dennyluan-static/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/dennyluan-static/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.64ac0a78.chunk.css.map": "/dennyluan-static/static/css/main.64ac0a78.chunk.css.map"
+    "main.css": "/static/css/main.64ac0a78.chunk.css",
+    "main.js": "/static/js/main.278ba33b.chunk.js",
+    "main.js.map": "/static/js/main.278ba33b.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.47c9e82b.chunk.js": "/static/js/2.47c9e82b.chunk.js",
+    "static/js/2.47c9e82b.chunk.js.map": "/static/js/2.47c9e82b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.85f5caa1fb0863f3f6976ce1f53ae078.js": "/precache-manifest.85f5caa1fb0863f3f6976ce1f53ae078.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.64ac0a78.chunk.css.map": "/static/css/main.64ac0a78.chunk.css.map"
   }
 }
