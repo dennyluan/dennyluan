@@ -1,24 +1,37 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Hello World
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div id="home">
+        <div className="container center">
+          <div className="row">
+            <div className="col-xs-12 col-md-12">
+              <div id="pokemans">
+                <div id="pikachu"></div>
+                <div id="ash"></div>
+              </div>
+              <p>Denny Luan</p>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-md-12">
+              <ul>
+                <li>
+                  <a href="https://twitter.com/dennyluan">Twitter</a>
+                </li>
+                <li>
+                  <a href="https://experiment.com">Experiment</a>
+                </li>
+                <li>
+                  <a href="https://research.pizza">Research Pizza</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }
