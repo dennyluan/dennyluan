@@ -2,7 +2,7 @@
   "name": "dennyluan-static",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://dennyluan.github.io/dennyluan-static",
+  "homepage": "https://dennyluan.github.io",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
